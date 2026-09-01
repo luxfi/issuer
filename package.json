@@ -4,7 +4,7 @@
   "version": "0.1.0",
   "type": "module",
   "packageManager": "pnpm@9.15.0",
-  "description": "Lux Financial — digital-securities issuer console (sandbox). ATS/BD/TA surface for regulated issuers. Built on @hanzo/ui true-black + @hanzo/iam.",
+  "description": "Lux Financial \u2014 digital-securities issuer console (sandbox). ATS/BD/TA surface for regulated issuers. Built on @hanzo/ui true-black + @hanzo/iam.",
   "scripts": {
     "dev": "vite",
     "build": "tsc --noEmit && vite build",
@@ -15,7 +15,7 @@
   "dependencies": {
     "@fontsource-variable/geist": "^5.1.0",
     "@fontsource-variable/geist-mono": "^5.1.0",
-    "@hanzo/iam": "^0.13.6",
+    "@hanzo/iam": "^0.21.18",
     "react": "^19.0.0",
     "react-dom": "^19.0.0",
     "react-router": "^7.0.0"
